@@ -4,6 +4,7 @@
 Este notebook documenta um projeto de Machine Learning , a análise e predição de evasão de clientes na empresa.
 
 # **Transformação do dataset:**
+- Arquivo usado : `dados_telecom.csv`
 
 - As variáveis categóricas foram transformadas em numéricas para ser realizado o calculo da correlação e logo após para o encoding dos dados
 
